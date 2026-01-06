@@ -1,16 +1,23 @@
-## Hi there 👋
+👋 Hey there, I’m Suma!
 
-<!--
-**sumakasula/sumakasula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile 😊  
+I’m a Data Science graduate passionate about turning data into insights, building analytical solutions, and continuously learning new technologies.
 
-Here are some ideas to get you started:
+Here you’ll find:
+- Data Analytics & Data Science projects
+- Machine Learning & AutoAI experiments
+- Dashboards and visual analytics (Power BI)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy working on real-world datasets and using data to support better decision-making.
+
+**Skills**
+- Python
+- Machine Learning
+- AI
+- Power BI
+- SQL
+
+**Connect with me**
+LinkedIn: https://www.linkedin.com/in/sumakasula/
+
+⭐ Thanks for visiting my profile!
